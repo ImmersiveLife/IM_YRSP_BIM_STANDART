@@ -56,3 +56,5 @@
   * [Градостроительный анализ и инвестиционная оценка территории](50\_MethodicMaterials/20\_InputDataProcessing/WorkflowTerritoryAnalysys.md)
   * [Работа с градостроительными условиями и документацией](50\_MethodicMaterials/20\_InputDataProcessing/WorkflowTerritoryDocs.md)
   * [Работа с данными местности](50\_MethodicMaterials/20\_InputDataProcessing/WorkflowTerritoryData.md)
+* [📘 Сведение моделей и координация](50\_methodicmaterials/30\_FederatedModeling.md)
+* [📘 Обработка пересечений](50\_methodicmaterials/30\_clushProcessing.md)
