@@ -25,8 +25,8 @@
 
 * [📒 Соглашение о наименованиях](CH01\_conventions/naming.md)
   * [Сокращённые наименование специальностей и ролей](ch01\_conventions/naming/specialitiesShortcut.md)
-* [📋 Общие параметры](CH01\_Conventions/01\_SharedParameters.md)
-* [📋 Системы классификации](CH01\_Conventions/classifiers.md)
+* [📋 Общие параметры](CH01\_conventions/01\_sharedparameters.md)
+* [📋 Системы классификации](CH01\_conventions/classifiers.md)
 * [📋 Версии приложений](CH01\_Conventions/appVersions.md)
 
 ## Цифровые активы <a href="#ch03_assets" id="ch03_assets"></a>
