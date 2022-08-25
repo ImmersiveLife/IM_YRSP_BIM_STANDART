@@ -23,7 +23,7 @@
 
 ## Соглашения <a href="#ch01_conventions" id="ch01_conventions"></a>
 
-* [📒 Соглашение о наименованиях](ch01\_conventions/naming/README.md)
+* [📒 Соглашение о наименованиях](CH01\_conventions/naming.md)
   * [Сокращённые наименование специальностей и ролей](ch01\_conventions/naming/specialitiesShortcut.md)
 * [📋 Общие параметры](CH01\_conventions/01\_sharedparameters.md)
 * [📋 Системы классификации](CH01\_conventions/classifiers.md)
@@ -41,11 +41,18 @@
   * [📦 Префабы Revit](CH03\_Assets/04\_WorkflowAssetFabrication/BIM\_RevitPrefabs.md)
   * [📦 Множества геоданных. GIS-слои](CH03\_Assets/04\_WorkflowAssetFabrication/CIM\_GISLayers.md)
 
+## Порядок моделирования <a href="#ch04_modelling" id="ch04_modelling"></a>
+
+* [📖 Моделирование в Blender](ch04\_modelling/im\_blender.md)
+* [📖 Моделирование в Revit](ch04\_modelling/im\_revit/README.md)
+  * [Совместная работа](ch04\_modelling/im\_revit/collabWorkTools.md)
+  * [Перечень запрещённых к применению команд](ch04\_modelling/im\_revit/restrictedCommands.md)
+
 ## Методические указания <a href="#50_methodicmaterials" id="50_methodicmaterials"></a>
 
-* [Порядок и инструменты коммуникации предприятия](50\_MethodicMaterials/00\_Collab.md)
-* [Порядок предоставления и структура данных результатов изысканий](50\_MethodicMaterials/10\_SurveysDataProcessing.md)
-* [Обработка исходных данных](50\_MethodicMaterials/20\_InputDataProcessing/README.md)
+* [📘 Порядок и инструменты коммуникации предприятия](50\_MethodicMaterials/00\_Collab.md)
+* [📘 Порядок предоставления и структура данных результатов изысканий](50\_MethodicMaterials/10\_SurveysDataProcessing.md)
+* [📘 Обработка исходных данных](50\_MethodicMaterials/20\_InputDataProcessing/README.md)
   * [Градостроительный анализ и инвестиционная оценка территории](50\_MethodicMaterials/20\_InputDataProcessing/WorkflowTerritoryAnalysys.md)
   * [Работа с градостроительными условиями и документацией](50\_MethodicMaterials/20\_InputDataProcessing/WorkflowTerritoryDocs.md)
   * [Работа с данными местности](50\_MethodicMaterials/20\_InputDataProcessing/WorkflowTerritoryData.md)
