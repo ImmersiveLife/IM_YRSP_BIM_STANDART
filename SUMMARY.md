@@ -9,17 +9,17 @@
 * [👩🎓 Нормативные ссылки](CH00\_Intro/referenceslaw.md)
 * [📝 Термины и определения](CH00\_Intro/defenitions.md)
 
-## Общие положения <a href="#ch00_generalstates" id="ch00_generalstates"></a>
+## Общие положения <a href="#CH00_GeneralStates" id="CH00_GeneralStates"></a>
 
-* [📒 Принципы управления информацией](CH00\_GeneralStates/managmentinformationprincipies/README.md)
-  * [Сетевая и информационная гигиена](CH00\_GeneralStates/managmentinformationprincipies/01\_networkhygiene.md)
-  * [Критерии классификации получаемой информации](CH00\_GeneralStates/managmentinformationprincipies/02\_iocriterias.md)
-  * [Об аналитике, исследованиях и разведке](CH00\_GeneralStates/managmentinformationprincipies/03\_ivestigationabout.md)
-  * [Управление информацией на предприятии](CH00\_GeneralStates/managmentinformationprincipies/04\_inhousedatamanagment.md)
-  * [Общие принципы формирования среды общих данных](CH00\_GeneralStates/managmentinformationprincipies/05\_cdegeneral.md)
-* [🎭 Роли и области ответственности](ch00\_generalstates/Roles/README.md)
-  * [Специалист-автор по информационному моделированию](ch00\_generalstates/Roles/specialist-avtor-po-informacionnomu-modelirovaniyu.md)
-  * [Специалист-координатор по информационному моделированию](ch00\_generalstates/Roles/specialist-koordinator-po-informacionnomu-modelirovaniyu.md)
+* [📒 Принципы управления информацией](CH00\_GeneralStates/ManagmentInformationPrincipies/README.md)
+  * [Сетевая и информационная гигиена](CH00\_GeneralStates/ManagmentInformationPrincipies/01\_networkhygiene.md)
+  * [Критерии классификации получаемой информации](CH00\_GeneralStates/ManagmentInformationPrincipies/02\_iocriterias.md)
+  * [Об аналитике, исследованиях и разведке](CH00\_GeneralStates/ManagmentInformationPrincipies/03\_ivestigationabout.md)
+  * [Управление информацией на предприятии](CH00\_GeneralStates/ManagmentInformationPrincipies/04\_inhousedatamanagment.md)
+  * [Общие принципы формирования среды общих данных](CH00\_GeneralStates/ManagmentInformationPrincipies/05\_cdegeneral.md)
+* [🎭 Роли и области ответственности](CH00\_GeneralStates/Roles/README.md)
+  * [Специалист-автор по информационному моделированию](CH00\_GeneralStates/Roles/specialist-avtor-po-informacionnomu-modelirovaniyu.md)
+  * [Специалист-координатор по информационному моделированию](CH00\_GeneralStates/Roles/specialist-koordinator-po-informacionnomu-modelirovaniyu.md)
 
 ## Соглашения <a href="#ch01_conventions" id="ch01_conventions"></a>
 
