@@ -6,7 +6,7 @@
 ## Введение <a href="#ch00_intro" id="ch00_intro"></a>
 
 * [Область применения](CH00\_Intro/applyingscope.md)
-* [👩🎓 👩🎓 👩🎓 Нормативные ссылки](CH00\_Intro/referenceslaw.md)
+* [🔗 Нормативные ссылки](CH00\_Intro/referenceslaw.md)
 * [📝 Термины и определения](CH00\_Intro/defenitions.md)
 
 ## Общие положения <a href="#ch00_generalstates" id="ch00_generalstates"></a>
