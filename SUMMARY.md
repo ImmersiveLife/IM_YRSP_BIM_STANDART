@@ -9,7 +9,7 @@
 * [👩🎓 Нормативные ссылки](CH00\_Intro/referenceslaw.md)
 * [📝 Термины и определения](CH00\_Intro/defenitions.md)
 
-## Общие положения <a href="#CH00_GeneralStates" id="CH00_GeneralStates"></a>
+## Общие положения <a href="#ch00_generalstates" id="ch00_generalstates"></a>
 
 * [📒 Принципы управления информацией](CH00\_GeneralStates/ManagmentInformationPrincipies/README.md)
   * [Сетевая и информационная гигиена](CH00\_GeneralStates/ManagmentInformationPrincipies/01\_networkhygiene.md)
@@ -23,7 +23,8 @@
 
 ## Соглашения <a href="#ch01_conventions" id="ch01_conventions"></a>
 
-* [📒 Соглашение о наименованиях](CH01\_conventions/naming.md)
+* [📒 Соглашение о наименованиях](ch01\_conventions/naming/README.md)
+  * [Сокращённые наименование специальностей и ролей](ch01\_conventions/naming/specialitiesShortcut.md)
 * [📋 Общие параметры](CH01\_conventions/01\_sharedparameters.md)
 * [📋 Системы классификации](CH01\_conventions/classifiers.md)
 
