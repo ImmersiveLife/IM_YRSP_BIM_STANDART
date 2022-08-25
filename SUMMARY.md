@@ -21,6 +21,7 @@
 ## Соглашения <a href="#CH01_Conventions" id="CH01_Conventions"></a>
 
 * [Соглашение о наименованиях](CH01\_Conventions/Naming.md)
+* [Общие параметры](CH01\_Conventions/01\_SharedParameters.md)
 
 ## Методические указания <a href="#50_MethodicMaterials" id="50_MethodicMaterials"></a>
 
