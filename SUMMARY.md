@@ -17,7 +17,10 @@
   * [Об аналитике, исследованиях и разведке](CH00\_GeneralStates/ManagmentInformationPrincipies/03\_IvestigationAbout.md)
   * [Управление информацией на предприятии](CH00\_GeneralStates/ManagmentInformationPrincipies/04\_InHouseDataManagment.md)
   * [Общие принципы формирования среды общих данных](CH00\_GeneralStates/ManagmentInformationPrincipies/05\_CDEGeneral.md)
-* [🎭 Роли и области ответственности](CH00\_GeneralStates/Roles.md)
+* [🎭 Роли и области ответственности](CH00\_GeneralStates/Roles/README.md)
+  * [Специалист-автор по информационному моделированию](CH00\_GeneralStates/Roles/specialist-avtor-po-informacionnomu-modelirovaniyu.md)
+  * [Специалист-координатор по информационному моделированию](CH00\_GeneralStates/Roles/specialist-koordinator-po-informacionnomu-modelirovaniyu.md)
+  * [Главный специалист по электроснабжению](CH00\_GeneralStates/Roles/glavnyi-specialist-po-elektrosnabzheniyu.md)
 
 ## Соглашения <a href="#CH01_Conventions" id="CH01_Conventions"></a>
 
