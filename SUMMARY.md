@@ -23,11 +23,11 @@
 
 ## Соглашения <a href="#ch01_conventions" id="ch01_conventions"></a>
 
-* [📒 Соглашение о наименованиях](ch01\_conventions/naming/README.md)
-  * [Сокращённые наименование специальностей и ролей](ch01\_conventions/naming/specshortcuts.md)
-* [📋 Общие параметры](ch01\_conventions/shared-parametrs.md)
-* [📋 Системы классификации](ch01\_conventions/classifiers.md)
-* [📋 Версии приложений](ch01\_conventions/appsversion.md)
+* [📒 Соглашение о наименованиях](ch01\_conventions/soglashenie-o-naimenovaniyakh/README.md)
+  * [Сокращённые наименование специальностей и ролей](ch01\_conventions/soglashenie-o-naimenovaniyakh/sokrashyonnye-naimenovanie-specialnostei-i-rolei.md)
+* [📋 Общие параметры](ch01\_conventions/obshie-parametry.md)
+* [📋 Системы классификации](ch01\_conventions/sistemy-klassifikacii.md)
+* [📋 Версии приложений](ch01\_conventions/versii-prilozhenii.md)
 
 ## Цифровые активы <a href="#ch03_assets" id="ch03_assets"></a>
 
