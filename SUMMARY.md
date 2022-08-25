@@ -3,29 +3,29 @@
 * [Стандарт информационного моделирования и проектирования](README.md)
 * [💭 Сведения о стандарте](info\_about.md)
 
-## Введение <a href="#ch00_intro" id="ch00_intro"></a>
+## Введение <a href="#CH00_Intro" id="CH00_Intro"></a>
 
-* [Область применения](CH00\_Intro/ApplyingScope.md)
-* [👩🎓 Нормативные ссылки](CH00\_Intro/ReferencesLaw.md)
-* [📝 Термины и определения](CH00\_Intro/Defenitions.md)
+* [Область применения](CH00\_Intro/applyingscope.md)
+* [👩🎓 Нормативные ссылки](CH00\_Intro/referenceslaw.md)
+* [📝 Термины и определения](CH00\_Intro/defenitions.md)
 
-## Общие положения <a href="#ch00_generalstates" id="ch00_generalstates"></a>
+## Общие положения <a href="#CH00_GeneralStates" id="CH00_GeneralStates"></a>
 
-* [📒 Принципы управления информацией](CH00\_GeneralStates/ManagmentInformationPrincipies/README.md)
-  * [Сетевая и информационная гигиена](CH00\_GeneralStates/ManagmentInformationPrincipies/01\_NetworkHygiene.md)
-  * [Критерии классификации получаемой информации](CH00\_GeneralStates/ManagmentInformationPrincipies/02\_IOCriterias.md)
-  * [Об аналитике, исследованиях и разведке](CH00\_GeneralStates/ManagmentInformationPrincipies/03\_IvestigationAbout.md)
-  * [Управление информацией на предприятии](CH00\_GeneralStates/ManagmentInformationPrincipies/04\_InHouseDataManagment.md)
-  * [Общие принципы формирования среды общих данных](CH00\_GeneralStates/ManagmentInformationPrincipies/05\_CDEGeneral.md)
-* [🎭 Роли и области ответственности](ch00\_generalstates/roles/README.md)
-  * [Специалист-автор по информационному моделированию](ch00\_generalstates/roles/specialist-avtor-po-informacionnomu-modelirovaniyu.md)
-  * [Специалист-координатор по информационному моделированию](ch00\_generalstates/roles/specialist-koordinator-po-informacionnomu-modelirovaniyu.md)
+* [📒 Принципы управления информацией](CH00\_GeneralStates/managmentinformationprincipies/README.md)
+  * [Сетевая и информационная гигиена](CH00\_GeneralStates/managmentinformationprincipies/01\_networkhygiene.md)
+  * [Критерии классификации получаемой информации](CH00\_GeneralStates/managmentinformationprincipies/02\_iocriterias.md)
+  * [Об аналитике, исследованиях и разведке](CH00\_GeneralStates/managmentinformationprincipies/03\_ivestigationabout.md)
+  * [Управление информацией на предприятии](CH00\_GeneralStates/managmentinformationprincipies/04\_inhousedatamanagment.md)
+  * [Общие принципы формирования среды общих данных](CH00\_GeneralStates/managmentinformationprincipies/05\_cdegeneral.md)
+* [🎭 Роли и области ответственности](CH00\_GeneralStates/roles/README.md)
+  * [Специалист-автор по информационному моделированию](CH00\_GeneralStates/roles/specialist-avtor-po-informacionnomu-modelirovaniyu.md)
+  * [Специалист-координатор по информационному моделированию](CH00\_GeneralStates/roles/specialist-koordinator-po-informacionnomu-modelirovaniyu.md)
 
-## Соглашения <a href="#ch01_conventions" id="ch01_conventions"></a>
+## Соглашения <a href="#CH01_conventions" id="CH01_conventions"></a>
 
-* [📒 Соглашение о наименованиях](CH01\_Conventions/Naming.md)
-* [📋 Общие параметры](CH01\_Conventions/01\_SharedParameters.md)
-* [📋 Системы классификации](CH01\_Conventions/Classifiers.md)
+* [📒 Соглашение о наименованиях](CH01\_conventions/naming.md)
+* [📋 Общие параметры](CH01\_conventions/01\_sharedparameters.md)
+* [📋 Системы классификации](CH01\_conventions/classifiers.md)
 
 ## Цифровые активы <a href="#ch03_assets" id="ch03_assets"></a>
 
