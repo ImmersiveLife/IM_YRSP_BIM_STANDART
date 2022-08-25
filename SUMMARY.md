@@ -24,10 +24,10 @@
 ## Соглашения <a href="#CH01_Conventions" id="CH01_Conventions"></a>
 
 * [📒 Соглашение о наименованиях](CH01\_conventions/naming.md)
-  * [📋 Общие параметры](CH01\_Conventions/Naming/01\_SharedParameters.md)
-  * [📋 Системы классификации](CH01\_Conventions/Naming/classifiers.md)
-  * [📋 Версии приложений](CH01\_Conventions/Naming/appVersions.md)
   * [Сокращённые наименование специальностей и ролей](ch01\_conventions/naming/specialitiesShortcut.md)
+* [📋 Общие параметры](CH01\_Conventions/01\_SharedParameters.md)
+* [📋 Системы классификации](CH01\_Conventions/classifiers.md)
+* [📋 Версии приложений](CH01\_Conventions/appVersions.md)
 
 ## Цифровые активы <a href="#ch03_assets" id="ch03_assets"></a>
 
