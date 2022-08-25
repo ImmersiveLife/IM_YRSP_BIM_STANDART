@@ -6,7 +6,7 @@
 ## Введение <a href="#ch00_intro" id="ch00_intro"></a>
 
 * [Область применения](CH00\_Intro/applyingscope.md)
-* [👩🎓 Нормативные ссылки](CH00\_Intro/referenceslaw.md)
+* [👩🎓 👩🎓 Нормативные ссылки](CH00\_Intro/referenceslaw.md)
 * [📝 Термины и определения](CH00\_Intro/defenitions.md)
 
 ## Общие положения <a href="#ch00_generalstates" id="ch00_generalstates"></a>
@@ -21,13 +21,13 @@
   * [Специалист-автор по информационному моделированию](CH00\_GeneralStates/Roles/specialist-avtor-po-informacionnomu-modelirovaniyu.md)
   * [Специалист-координатор по информационному моделированию](CH00\_GeneralStates/Roles/specialist-koordinator-po-informacionnomu-modelirovaniyu.md)
 
-## Соглашения <a href="#CH01_Conventions" id="CH01_Conventions"></a>
+## Соглашения <a href="#ch01_conventions" id="ch01_conventions"></a>
 
-* [📒 Соглашение о наименованиях](CH01\_conventions/naming.md)
-  * [Сокращённые наименование специальностей и ролей](ch01\_conventions/naming/specialitiesShortcut.md)
-* [📋 Общие параметры](CH01\_conventions/01\_sharedparameters.md)
-* [📋 Системы классификации](CH01\_conventions/classifiers.md)
-* [📋 Версии приложений](CH01\_Conventions/appVersions.md)
+* [📒 Соглашение о наименованиях](ch01\_conventions/soglashenie-o-naimenovaniyakh/README.md)
+  * [Сокращённые наименование специальностей и ролей](ch01\_conventions/soglashenie-o-naimenovaniyakh/sokrashyonnye-naimenovanie-specialnostei-i-rolei.md)
+* [📋 Общие параметры](ch01\_conventions/obshie-parametry.md)
+* [📋 Системы классификации](ch01\_conventions/sistemy-klassifikacii.md)
+* [📋 Версии приложений](ch01\_conventions/versii-prilozhenii.md)
 
 ## Цифровые активы <a href="#ch03_assets" id="ch03_assets"></a>
 
