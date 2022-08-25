@@ -23,8 +23,8 @@
 
 ## Соглашения <a href="#CH01_Conventions" id="CH01_Conventions"></a>
 
-* [📒 Соглашение о наименованиях](CH01\_conventions/naming.md)
-  * [Сокращённые наименование специальностей и ролей](ch01\_conventions/naming/specialitiesShortcut.md)
+* [📒 Соглашение о наименованиях](CH01\_Conventions/Naming/README.md)
+  * [Сокращённые наименование специальностей и ролей](CH01\_Conventions/Naming/specialitiesShortcut.md)
 * [📋 Общие параметры](CH01\_conventions/01\_sharedparameters.md)
 * [📋 Системы классификации](CH01\_conventions/classifiers.md)
 * [📋 Версии приложений](CH01\_Conventions/appVersions.md)
