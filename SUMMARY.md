@@ -6,7 +6,7 @@
 ## Введение <a href="#ch00_intro" id="ch00_intro"></a>
 
 * [Область применения](CH00\_Intro/applyingscope.md)
-* [🔗 Нормативные ссылки](CH00\_Intro/referenceslaw.md)
+* [🔗 Ссылки на источники](CH00\_Intro/referenceslaw.md)
 * [📝 Термины и определения](CH00\_Intro/defenitions.md)
 
 ## Общие положения <a href="#ch00_generalstates" id="ch00_generalstates"></a>
@@ -44,6 +44,7 @@
 
 ## Порядок моделирования <a href="#ch04_modelling" id="ch04_modelling"></a>
 
+* [📖 Увязка хранилищ данных разделов](ch04\_modelling/im\_partitionsFederate.md)
 * [📖 Моделирование в Blender](ch04\_modelling/im\_blender.md)
 * [📖 Моделирование в Revit](ch04\_modelling/im\_revit/README.md)
   * [Совместная работа](ch04\_modelling/im\_revit/collabWorkTools.md)
