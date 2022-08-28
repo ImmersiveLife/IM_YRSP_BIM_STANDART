@@ -24,6 +24,7 @@
 ## Соглашения <a href="#ch01_conventions" id="ch01_conventions"></a>
 
 * [📒 Соглашение о наименованиях](ch01\_conventions/soglashenie-o-naimenovaniyakh/README.md)
+  * [Тикер организации-автора](ch01\_conventions/soglashenie-o-naimenovaniyakh/firm\_ticker.md)
   * [Сокращённые наименование специальностей и ролей](ch01\_conventions/soglashenie-o-naimenovaniyakh/sokrashyonnye-naimenovanie-specialnostei-i-rolei.md)
 * [📋 Общие параметры](ch01\_conventions/obshie-parametry.md)
 * [📋 Системы классификации](ch01\_conventions/sistemy-klassifikacii.md)
