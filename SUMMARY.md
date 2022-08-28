@@ -19,7 +19,7 @@
   * [Общие принципы формирования среды общих данных](CH00\_GeneralStates/ManagmentInformationPrincipies/05\_cdegeneral.md)
 * [🎭 Роли и области ответственности](CH00\_GeneralStates/Roles/README.md)
   * [Специалист-автор по информационному моделированию](CH00\_GeneralStates/Roles/specialist-avtor-po-informacionnomu-modelirovaniyu.md)
-  * [Специалист-координатор по информационному моделированию](CH00\_GeneralStates/Roles/specialist-koordinator-po-informacionnomu-modelirovaniyu.md)
+  * [Ведущий инженер-конструктор специалист по информационному моделированию](CH00\_GeneralStates/Roles/specialist-koordinator-po-informacionnomu-modelirovaniyu.md)
 
 ## Соглашения <a href="#ch01_conventions" id="ch01_conventions"></a>
 
