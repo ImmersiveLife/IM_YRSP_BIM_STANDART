@@ -39,7 +39,9 @@
 * [📖 Внедрение готовых активов от сторонних поставщиков](CH03\_Assets/03\_WorkflowAssetInsertion.md)
 * [📖 Создание активов и их компонентов для формирования ЦИМ](CH03\_Assets/04\_WorkflowAssetFabrication/README.md)
   * [📦 Семейства Revit](CH03\_Assets/04\_WorkflowAssetFabrication/BIM\_RevitFamilies/README.md)
+    * [Общие сведения и правила работы с Семействами](ch03\_assets/04\_workflowassetfabrication/bim\_revitfamilies/commonrules.md)
     * [Проверка на соответствие (валидация) компонентов требованиям Стандарта](CH03\_Assets/04\_WorkflowAssetFabrication/BIM\_RevitFamilies/validation.md)
+    * [Алгоритм принятия решений при создании Семейств](ch03\_assets/04\_workflowassetfabrication/bim\_revitfamilies/makealgo\_general.md)
   * [📦 Префабы Revit](CH03\_Assets/04\_WorkflowAssetFabrication/BIM\_RevitPrefabs.md)
   * [📦 Множества геоданных. GIS-слои](CH03\_Assets/04\_WorkflowAssetFabrication/CIM\_GISLayers.md)
 
